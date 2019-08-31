@@ -1,6 +1,6 @@
 # Python_Skills
 
-In this project repo I will be storing multiple projects showing my understanding of the fundamentals of the Python programming language.
+In this repo I will be storing multiple projects showing my understanding of the fundamentals of the Python programming language.
 
 # Simple Calculator
 
