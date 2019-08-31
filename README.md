@@ -6,4 +6,3 @@ Add
 Subtract
 Multiply 
 Divide 
-Use indicies
