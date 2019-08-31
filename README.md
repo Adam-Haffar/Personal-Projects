@@ -1,7 +1,14 @@
 # Python_Skills
-In this project I will be creating a calculator in python that can:
+
+In this project repo I will be storing multiple projects showing my understanding of the fundamentals of the Python programming language.
+
+# Simple Calculator
+
+In this project I will create a calculator that can:
 
 Add
 Subtract
-Multiply 
-Divide 
+Multiply
+Divide
+
+Edit: DONE
