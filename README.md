@@ -12,3 +12,12 @@ Multiply
 Divide
 
 Edit: DONE
+
+# Sorts
+
+I intend to create 2 types of sort in python:
+
+Quick Sort
+Merge Sort DONE
+
+EDIT: DONE 1
