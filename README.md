@@ -17,7 +17,7 @@ Edit: DONE
 
 I intend to create 2 types of sort in python:
 
-Quick Sort
+Quick Sort DONE
 Merge Sort DONE
 
-EDIT: DONE 1
+EDIT: DONE BOTH
